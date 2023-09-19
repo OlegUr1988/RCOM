@@ -1,0 +1,1 @@
+Kj_kWh = "kJ/kWh"

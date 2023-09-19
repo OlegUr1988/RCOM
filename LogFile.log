@@ -1,0 +1,234 @@
+2023-09-19 13:31:36,866 populateTree with object id = 0x7eed9a0
+2023-09-19 13:31:36,870 Adding: col 0: Name
+2023-09-19 13:31:36,870 Adding: col 1: Type
+2023-09-19 13:31:36,870 Adding: col 2: Size
+2023-09-19 13:31:36,870 Adding: col 3: Value
+2023-09-19 13:31:36,870 Adding: col 4: Callable
+2023-09-19 13:31:36,870 Adding: col 5: Path
+2023-09-19 13:31:36,870 Adding: col 6: Id
+2023-09-19 13:31:36,871 Adding: col 7: Attribute
+2023-09-19 13:31:36,871 Adding: col 8: Routine
+2023-09-19 13:31:36,871 Adding: col 9: File
+2023-09-19 13:31:36,871 Adding: col 10: Source file
+2023-09-19 13:32:18,640 Autosave triggered
+2023-09-19 13:33:18,650 Autosave triggered
+2023-09-19 13:34:18,657 Autosave triggered
+2023-09-19 13:35:18,655 Autosave triggered
+2023-09-19 13:36:18,652 Autosave triggered
+2023-09-19 13:37:18,658 Autosave triggered
+2023-09-19 13:38:18,690 Autosave triggered
+2023-09-19 13:39:18,699 Autosave triggered
+2023-09-19 13:40:18,707 Autosave triggered
+2023-09-19 13:41:18,713 Autosave triggered
+2023-09-19 13:42:18,733 Autosave triggered
+2023-09-19 13:43:18,738 Autosave triggered
+2023-09-19 13:44:18,747 Autosave triggered
+2023-09-19 13:45:18,737 Autosave triggered
+2023-09-19 13:46:18,754 Autosave triggered
+2023-09-19 13:47:18,755 Autosave triggered
+2023-09-19 13:48:18,754 Autosave triggered
+2023-09-19 13:49:18,776 Autosave triggered
+2023-09-19 13:50:18,773 Autosave triggered
+2023-09-19 13:51:18,774 Autosave triggered
+2023-09-19 13:52:18,767 Autosave triggered
+2023-09-19 13:53:18,765 Autosave triggered
+2023-09-19 13:54:18,767 Autosave triggered
+2023-09-19 13:55:18,770 Autosave triggered
+2023-09-19 13:56:18,772 Autosave triggered
+2023-09-19 13:57:18,776 Autosave triggered
+2023-09-19 13:58:18,778 Autosave triggered
+2023-09-19 13:59:18,767 Autosave triggered
+2023-09-19 14:00:18,765 Autosave triggered
+2023-09-19 14:01:18,765 Autosave triggered
+2023-09-19 14:02:18,763 Autosave triggered
+2023-09-19 14:03:18,774 Autosave triggered
+2023-09-19 14:04:18,773 Autosave triggered
+2023-09-19 14:05:18,761 Autosave triggered
+2023-09-19 14:06:18,765 Autosave triggered
+2023-09-19 14:07:14,700 Notifying plugin breakpoints that editor is going to be turned off
+2023-09-19 14:07:14,700 Calling <bound method Breakpoints.on_editor_teardown of <spyder.plugins.breakpoints.plugin.Breakpoints object at 0x0000000023457820>>
+2023-09-19 14:07:14,700 Notifying plugin help that editor is going to be turned off
+2023-09-19 14:07:14,700 Calling <bound method Help.on_editor_teardown of <spyder.plugins.help.plugin.Help object at 0x00000000240A11F0>>
+2023-09-19 14:07:14,700 Notifying plugin layout that editor is going to be turned off
+2023-09-19 14:07:14,700 Notifying plugin outline_explorer that editor is going to be turned off
+2023-09-19 14:07:14,700 Calling <bound method OutlineExplorer.on_editor_teardown of <spyder.plugins.outlineexplorer.plugin.OutlineExplorer object at 0x000000002747EC10>>
+2023-09-19 14:07:14,700 Notifying plugin profiler that editor is going to be turned off
+2023-09-19 14:07:14,700 Calling <bound method Profiler.on_editor_teardown of <spyder.plugins.profiler.plugin.Profiler object at 0x00000000284E8C10>>
+2023-09-19 14:07:14,700 Notifying plugin pylint that editor is going to be turned off
+2023-09-19 14:07:14,700 Calling <bound method Pylint.on_editor_teardown of <spyder.plugins.pylint.plugin.Pylint object at 0x0000000028FD7310>>
+2023-09-19 14:07:14,700 Notifying plugin application that editor is going to be turned off
+2023-09-19 14:07:14,700 Calling <bound method Application.on_editor_teardown of <spyder.plugins.application.plugin.Application object at 0x000000002344C550>>
+2023-09-19 14:07:14,700 Notifying plugin explorer that editor is going to be turned off
+2023-09-19 14:07:14,700 Calling <bound method Explorer.on_editor_teardown of <spyder.plugins.explorer.plugin.Explorer object at 0x00000000234FAEE0>>
+2023-09-19 14:07:14,700 Notifying plugin find_in_files that editor is going to be turned off
+2023-09-19 14:07:14,700 Calling <bound method FindInFiles.on_editor_teardown of <spyder.plugins.findinfiles.plugin.FindInFiles object at 0x00000000234D1EE0>>
+2023-09-19 14:07:14,700 Notifying plugin ipython_console that editor is going to be turned off
+2023-09-19 14:07:14,700 Calling <bound method IPythonConsole.on_editor_teardown of <spyder.plugins.ipythonconsole.plugin.IPythonConsole object at 0x00000000274DFDC0>>
+2023-09-19 14:07:14,700 Notifying plugin project_explorer that editor is going to be turned off
+2023-09-19 14:07:14,700 Calling <bound method Projects.on_editor_teardown of <spyder.plugins.projects.plugin.Projects object at 0x0000000028EC8700>>
+2023-09-19 14:07:14,700 Notifying plugin workingdir that editor is going to be turned off
+2023-09-19 14:07:14,700 Calling <bound method WorkingDirectory.on_editor_teardown of <spyder.plugins.workingdirectory.plugin.WorkingDirectory object at 0x0000000028FF4040>>
+2023-09-19 14:07:14,700 Disconnecting help from internal_console
+2023-09-19 14:07:14,700 Calling <bound method Help.on_console_teardown of <spyder.plugins.help.plugin.Help object at 0x00000000240A11F0>>
+2023-09-19 14:07:14,700 Disconnecting help from preferences
+2023-09-19 14:07:14,700 Calling <bound method Help.on_preferences_teardown of <spyder.plugins.help.plugin.Help object at 0x00000000240A11F0>>
+2023-09-19 14:07:14,700 Disconnecting help from shortcuts
+2023-09-19 14:07:14,700 Calling <bound method Help.on_shortcuts_teardown of <spyder.plugins.help.plugin.Help object at 0x00000000240A11F0>>
+2023-09-19 14:07:14,700 Disconnecting help from ipython_console
+2023-09-19 14:07:14,700 Calling <bound method Help.on_ipython_console_teardown of <spyder.plugins.help.plugin.Help object at 0x00000000240A11F0>>
+2023-09-19 14:07:14,700 Disconnecting help from mainmenu
+2023-09-19 14:07:14,700 Calling <bound method Help.on_main_menu_teardown of <spyder.plugins.help.plugin.Help object at 0x00000000240A11F0>>
+2023-09-19 14:07:14,700 Notifying plugin layout that help is going to be turned off
+2023-09-19 14:07:14,700 Notifying plugin application that help is going to be turned off
+2023-09-19 14:07:14,715 Docking plugin back to the main window
+2023-09-19 14:07:14,715 Disconnecting find_in_files from mainmenu
+2023-09-19 14:07:14,715 Calling <bound method FindInFiles.on_main_menu_teardown of <spyder.plugins.findinfiles.plugin.FindInFiles object at 0x00000000234D1EE0>>
+2023-09-19 14:07:14,715 Disconnecting find_in_files from project_explorer
+2023-09-19 14:07:14,715 Calling <bound method FindInFiles.on_projects_teardon_plugin_teardown of <spyder.plugins.findinfiles.plugin.FindInFiles object at 0x00000000234D1EE0>>
+2023-09-19 14:07:14,715 Notifying plugin layout that find_in_files is going to be turned off
+2023-09-19 14:07:14,715 Notifying plugin workingdir that find_in_files is going to be turned off
+2023-09-19 14:07:14,715 Docking plugin back to the main window
+2023-09-19 14:07:14,731 Disconnecting completions from preferences
+2023-09-19 14:07:14,731 Calling <bound method CompletionPlugin.on_preferences_teardown of <spyder.plugins.completion.plugin.CompletionPlugin object at 0x0000000023467310>>
+2023-09-19 14:07:14,731 Disconnecting completions from statusbar
+2023-09-19 14:07:14,731 Calling <bound method CompletionPlugin.on_statusbar_teardown of <spyder.plugins.completion.plugin.CompletionPlugin object at 0x0000000023467310>>
+2023-09-19 14:07:14,731 Disconnecting completions from application
+2023-09-19 14:07:14,731 Disconnecting completions from mainmenu
+2023-09-19 14:07:14,731 Calling <bound method CompletionPlugin.on_mainmenu_teardown of <spyder.plugins.completion.plugin.CompletionPlugin object at 0x0000000023467310>>
+2023-09-19 14:07:14,731 Notifying plugin layout that completions is going to be turned off
+2023-09-19 14:07:14,731 Notifying plugin outline_explorer that completions is going to be turned off
+2023-09-19 14:07:14,731 Calling <bound method OutlineExplorer.on_completions_teardown of <spyder.plugins.outlineexplorer.plugin.OutlineExplorer object at 0x000000002747EC10>>
+2023-09-19 14:07:14,731 Notifying plugin project_explorer that completions is going to be turned off
+2023-09-19 14:07:14,731 Calling <bound method Projects.on_completions_teardown of <spyder.plugins.projects.plugin.Projects object at 0x0000000028EC8700>>
+2023-09-19 14:07:14,731 Fallback plugin stopping...
+2023-09-19 14:07:14,731 Shutting down LSP manager...
+2023-09-19 14:07:14,731 Stopping LSP client for python...
+2023-09-19 14:07:14,731 Stopping python client...
+2023-09-19 14:07:14,784 Snippets plugin stopping...
+2023-09-19 14:07:14,784 Disconnecting internal_console from mainmenu
+2023-09-19 14:07:14,784 Calling <bound method Console.on_main_menu_teardown of <spyder.plugins.console.plugin.Console object at 0x00000000284B5F70>>
+2023-09-19 14:07:14,784 Notifying plugin application that internal_console is going to be turned off
+2023-09-19 14:07:14,784 Calling <bound method Application.on_console_teardown of <spyder.plugins.application.plugin.Application object at 0x000000002344C550>>
+2023-09-19 14:07:14,784 Notifying plugin historylog that internal_console is going to be turned off
+2023-09-19 14:07:14,784 Calling <bound method HistoryLog.on_console_teardown of <spyder.plugins.history.plugin.HistoryLog object at 0x00000000244B4940>>
+2023-09-19 14:07:14,784 Notifying plugin ipython_console that internal_console is going to be turned off
+2023-09-19 14:07:14,784 Notifying plugin layout that internal_console is going to be turned off
+2023-09-19 14:07:14,784 Notifying plugin workingdir that internal_console is going to be turned off
+2023-09-19 14:07:14,784 Docking plugin back to the main window
+2023-09-19 14:07:14,784 Notifying plugin layout that outline_explorer is going to be turned off
+2023-09-19 14:07:14,799 Docking plugin back to the main window
+2023-09-19 14:07:14,799 Disconnecting plots from ipython_console
+2023-09-19 14:07:14,799 Calling <bound method ShellConnectMixin.on_ipython_console_teardown of <spyder.plugins.plots.plugin.Plots object at 0x00000000284EE700>>
+2023-09-19 14:07:14,799 Notifying plugin layout that plots is going to be turned off
+2023-09-19 14:07:14,799 Docking plugin back to the main window
+2023-09-19 14:07:14,799 Disconnecting application from preferences
+2023-09-19 14:07:14,799 Calling <bound method Application.on_preferences_teardown of <spyder.plugins.application.plugin.Application object at 0x000000002344C550>>
+2023-09-19 14:07:14,799 Disconnecting application from shortcuts
+2023-09-19 14:07:14,799 Disconnecting application from mainmenu
+2023-09-19 14:07:14,799 Calling <bound method Application.on_main_menu_teardown of <spyder.plugins.application.plugin.Application object at 0x000000002344C550>>
+2023-09-19 14:07:14,799 Notifying plugin layout that application is going to be turned off
+2023-09-19 14:07:14,799 Notifying plugin preferences that application is going to be turned off
+2023-09-19 14:07:14,799 Calling <bound method Preferences.on_application_teardown of <spyder.plugins.preferences.plugin.Preferences object at 0x00000000284E8DC0>>
+2023-09-19 14:07:14,799 Disconnecting statusbar from preferences
+2023-09-19 14:07:14,799 Calling <bound method StatusBar.on_preferences_teardown of <spyder.plugins.statusbar.plugin.StatusBar object at 0x0000000028F80280>>
+2023-09-19 14:07:14,799 Notifying plugin layout that statusbar is going to be turned off
+2023-09-19 14:07:14,799 Notifying plugin main_interpreter that statusbar is going to be turned off
+2023-09-19 14:07:14,799 Calling <bound method MainInterpreter.on_statusbar_teardown of <spyder.plugins.maininterpreter.plugin.MainInterpreter object at 0x00000000274B20D0>>
+2023-09-19 14:07:14,799 Notifying plugin layout that onlinehelp is going to be turned off
+2023-09-19 14:07:14,815 Docking plugin back to the main window
+2023-09-19 14:07:14,815 Disconnecting pylint from preferences
+2023-09-19 14:07:14,815 Calling <bound method Pylint.on_preferences_teardown of <spyder.plugins.pylint.plugin.Pylint object at 0x0000000028FD7310>>
+2023-09-19 14:07:14,815 Disconnecting pylint from project_explorer
+2023-09-19 14:07:14,815 Calling <bound method Pylint.on_projects_teardown of <spyder.plugins.pylint.plugin.Pylint object at 0x0000000028FD7310>>
+2023-09-19 14:07:14,815 Disconnecting pylint from mainmenu
+2023-09-19 14:07:14,815 Calling <bound method Pylint.on_main_menu_teardown of <spyder.plugins.pylint.plugin.Pylint object at 0x0000000028FD7310>>
+2023-09-19 14:07:14,815 Notifying plugin layout that pylint is going to be turned off
+2023-09-19 14:07:14,831 Docking plugin back to the main window
+2023-09-19 14:07:14,831 Disconnecting ipython_console from preferences
+2023-09-19 14:07:14,831 Calling <bound method IPythonConsole.on_preferences_teardown of <spyder.plugins.ipythonconsole.plugin.IPythonConsole object at 0x00000000274DFDC0>>
+2023-09-19 14:07:14,831 Disconnecting ipython_console from mainmenu
+2023-09-19 14:07:14,831 Calling <bound method IPythonConsole.on_main_menu_teardown of <spyder.plugins.ipythonconsole.plugin.IPythonConsole object at 0x00000000274DFDC0>>
+2023-09-19 14:07:14,831 Disconnecting ipython_console from historylog
+2023-09-19 14:07:14,831 Notifying plugin layout that ipython_console is going to be turned off
+2023-09-19 14:07:14,831 Notifying plugin variable_explorer that ipython_console is going to be turned off
+2023-09-19 14:07:14,831 Calling <bound method ShellConnectMixin.on_ipython_console_teardown of <spyder.plugins.variableexplorer.plugin.VariableExplorer object at 0x0000000028FE4B80>>
+2023-09-19 14:07:14,831 Notifying plugin explorer that ipython_console is going to be turned off
+2023-09-19 14:07:14,831 Calling <bound method Explorer.on_ipython_console_teardown of <spyder.plugins.explorer.plugin.Explorer object at 0x00000000234FAEE0>>
+2023-09-19 14:07:14,831 Notifying plugin historylog that ipython_console is going to be turned off
+2023-09-19 14:07:14,831 Calling <bound method HistoryLog.on_ipyconsole_teardown of <spyder.plugins.history.plugin.HistoryLog object at 0x00000000244B4940>>
+2023-09-19 14:07:14,831 Notifying plugin project_explorer that ipython_console is going to be turned off
+2023-09-19 14:07:14,831 Calling <bound method Projects.on_ipython_console_teardown of <spyder.plugins.projects.plugin.Projects object at 0x0000000028EC8700>>
+2023-09-19 14:07:14,831 Notifying plugin workingdir that ipython_console is going to be turned off
+2023-09-19 14:07:14,831 Calling <bound method WorkingDirectory.on_ipyconsole_teardown of <spyder.plugins.workingdirectory.plugin.WorkingDirectory object at 0x0000000028FF4040>>
+2023-09-19 14:07:14,831 Docking plugin back to the main window
+2023-09-19 14:07:14,846 Using proactor: IocpProactor
+2023-09-19 14:07:14,978 Disconnecting toolbar from mainmenu
+2023-09-19 14:07:14,978 Calling <bound method Toolbar.on_main_menu_teardown of <spyder.plugins.toolbar.plugin.Toolbar object at 0x0000000028F850D0>>
+2023-09-19 14:07:14,978 Notifying plugin layout that toolbar is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method Layout.on_toolbar_teardown of <spyder.plugins.layout.plugin.Layout object at 0x00000000240A1310>>
+2023-09-19 14:07:14,978 Notifying plugin workingdir that toolbar is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method WorkingDirectory.on_toolbar_teardown of <spyder.plugins.workingdirectory.plugin.WorkingDirectory object at 0x0000000028FF4040>>
+2023-09-19 14:07:14,978 Notifying plugin preferences that toolbar is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method Preferences.on_toolbar_teardown of <spyder.plugins.preferences.plugin.Preferences object at 0x00000000284E8DC0>>
+2023-09-19 14:07:14,978 Disconnecting workingdir from preferences
+2023-09-19 14:07:14,978 Calling <bound method WorkingDirectory.on_preferences_teardown of <spyder.plugins.workingdirectory.plugin.WorkingDirectory object at 0x0000000028FF4040>>
+2023-09-19 14:07:14,978 Disconnecting workingdir from project_explorer
+2023-09-19 14:07:14,978 Calling <bound method WorkingDirectory.on_projects_teardown of <spyder.plugins.workingdirectory.plugin.WorkingDirectory object at 0x0000000028FF4040>>
+2023-09-19 14:07:14,978 Disconnecting workingdir from explorer
+2023-09-19 14:07:14,978 Calling <bound method WorkingDirectory.on_explorer_teardown of <spyder.plugins.workingdirectory.plugin.WorkingDirectory object at 0x0000000028FF4040>>
+2023-09-19 14:07:14,978 Notifying plugin layout that workingdir is going to be turned off
+2023-09-19 14:07:14,978 Disconnecting tours from mainmenu
+2023-09-19 14:07:14,978 Calling <bound method Tours.on_main_menu_teardown of <spyder.plugins.tours.plugin.Tours object at 0x0000000028F85C10>>
+2023-09-19 14:07:14,978 Notifying plugin layout that tours is going to be turned off
+2023-09-19 14:07:14,978 Disconnecting preferences from mainmenu
+2023-09-19 14:07:14,978 Calling <bound method Preferences.on_main_menu_teardown of <spyder.plugins.preferences.plugin.Preferences object at 0x00000000284E8DC0>>
+2023-09-19 14:07:14,978 Notifying plugin appearance that preferences is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method Appearance.deregister_preferences of <spyder.plugins.appearance.plugin.Appearance object at 0x000000002344C430>>
+2023-09-19 14:07:14,978 Notifying plugin explorer that preferences is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method Explorer.on_preferences_teardown of <spyder.plugins.explorer.plugin.Explorer object at 0x00000000234FAEE0>>
+2023-09-19 14:07:14,978 Notifying plugin historylog that preferences is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method HistoryLog.on_preferences_teardown of <spyder.plugins.history.plugin.HistoryLog object at 0x00000000244B4940>>
+2023-09-19 14:07:14,978 Notifying plugin layout that preferences is going to be turned off
+2023-09-19 14:07:14,978 Notifying plugin main_interpreter that preferences is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method MainInterpreter.on_preferences_teardown of <spyder.plugins.maininterpreter.plugin.MainInterpreter object at 0x00000000274B20D0>>
+2023-09-19 14:07:14,978 Notifying plugin profiler that preferences is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method Profiler.on_preferences_teardown of <spyder.plugins.profiler.plugin.Profiler object at 0x00000000284E8C10>>
+2023-09-19 14:07:14,978 Notifying plugin run that preferences is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method Run.on_preferences_teardown of <spyder.plugins.run.plugin.Run object at 0x0000000028F7CE50>>
+2023-09-19 14:07:14,978 Notifying plugin shortcuts that preferences is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method Shortcuts.on_preferences_teardown of <spyder.plugins.shortcuts.plugin.Shortcuts object at 0x0000000028F7CF70>>
+2023-09-19 14:07:14,978 Notifying plugin variable_explorer that preferences is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method VariableExplorer.on_preferences_teardown of <spyder.plugins.variableexplorer.plugin.VariableExplorer object at 0x0000000028FE4B80>>
+2023-09-19 14:07:14,978 Notifying plugin layout that mainmenu is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method Layout.on_main_menu_teardown of <spyder.plugins.layout.plugin.Layout object at 0x00000000240A1310>>
+2023-09-19 14:07:14,978 Notifying plugin breakpoints that mainmenu is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method Breakpoints.on_main_menu_teardown of <spyder.plugins.breakpoints.plugin.Breakpoints object at 0x0000000023457820>>
+2023-09-19 14:07:14,978 Notifying plugin profiler that mainmenu is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method Profiler.on_main_menu_teardown of <spyder.plugins.profiler.plugin.Profiler object at 0x00000000284E8C10>>
+2023-09-19 14:07:14,978 Notifying plugin project_explorer that mainmenu is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method Projects.on_main_menu_teardown of <spyder.plugins.projects.plugin.Projects object at 0x0000000028EC8700>>
+2023-09-19 14:07:14,978 Notifying plugin shortcuts that mainmenu is going to be turned off
+2023-09-19 14:07:14,978 Calling <bound method Shortcuts.on_main_menu_teardown of <spyder.plugins.shortcuts.plugin.Shortcuts object at 0x0000000028F7CF70>>
+2023-09-19 14:07:14,978 Notifying plugin layout that variable_explorer is going to be turned off
+2023-09-19 14:07:14,984 Sending notification to observers of __section in configuration section variable_explorer
+2023-09-19 14:07:14,984 Dropping interrupt because comm is disconnected: {'call_name': 'set_namespace_view_settings', 'call_id': 'fc4bed618255489891bcde0e4d10cda4', 'settings': {'interrupt': True, 'blocking': False, 'timeout': None, 'display_error': False, 'send_reply': False}}
+2023-09-19 14:07:14,984 Dropping interrupt because comm is disconnected: {'call_name': 'get_namespace_view', 'call_id': '18865c50d2304288ba97215a14a072c6', 'settings': {'interrupt': True, 'blocking': False, 'timeout': None, 'display_error': False, 'send_reply': True}}
+2023-09-19 14:07:14,984 Dropping interrupt because comm is disconnected: {'call_name': 'get_var_properties', 'call_id': '7f980371237c4dedb7c6782d8eeb82f0', 'settings': {'interrupt': True, 'blocking': False, 'timeout': None, 'display_error': False, 'send_reply': True}}
+2023-09-19 14:07:14,984 Docking plugin back to the main window
+2023-09-19 14:07:14,984 Notifying plugin layout that shortcuts is going to be turned off
+2023-09-19 14:07:14,984 Notifying plugin layout that project_explorer is going to be turned off
+2023-09-19 14:07:14,984 Docking plugin back to the main window
+2023-09-19 14:07:15,000 Notifying plugin layout that historylog is going to be turned off
+2023-09-19 14:07:15,000 Docking plugin back to the main window
+2023-09-19 14:07:15,000 Notifying plugin layout that profiler is going to be turned off
+2023-09-19 14:07:15,000 Docking plugin back to the main window
+2023-09-19 14:07:15,000 Notifying plugin layout that breakpoints is going to be turned off
+2023-09-19 14:07:15,000 Docking plugin back to the main window
+2023-09-19 14:07:15,015 Notifying plugin layout that run is going to be turned off
+2023-09-19 14:07:15,015 Notifying plugin layout that appearance is going to be turned off
+2023-09-19 14:07:15,015 Notifying plugin layout that explorer is going to be turned off
+2023-09-19 14:07:15,015 Docking plugin back to the main window
+2023-09-19 14:07:15,015 Notifying plugin layout that main_interpreter is going to be turned off
+2023-09-19 14:07:15,031 Disconnecting layout from layout
+2023-09-19 14:07:15,031 Notifying plugin layout that layout is going to be turned off
+2023-09-19 14:07:15,183 handle_close[492f608a569d11ee8c82f44ee340facd]({'header': {'msg_id': '4654eb4e-51056f654ed6229fb0f51f4a_34008_33098', 'msg_type': 'comm_close', 'username': 'username', 'session': '4654eb4e-51056f654ed6229fb0f51f4a', 'date': datetime.datetime(2023, 9, 19, 8, 7, 14, 846743, tzinfo=tzutc()), 'version': '5.3'}, 'msg_id': '4654eb4e-51056f654ed6229fb0f51f4a_34008_33098', 'msg_type': 'comm_close', 'parent_header': {'msg_id': 'e526a4a9-d0e0fa6047861d8f5969b201_15476_16491', 'msg_type': 'comm_msg', 'username': 'username', 'session': 'e526a4a9-d0e0fa6047861d8f5969b201', 'date': datetime.datetime(2023, 9, 19, 8, 7, 13, 914130, tzinfo=tzutc()), 'version': '5.3'}, 'metadata': {}, 'content': {'data': {}, 'comm_id': '492f608a569d11ee8c82f44ee340facd'}, 'buffers': []})

@@ -1,0 +1,218 @@
+#Setting for Model Metadata,,
+#=== FILE HEADER ===,,
+#IO File Template Version:,,
+#Model Builder Version:,5.2.1,C
+#Date Model Saved:,,C
+#Revision Number:,,C
+#Business:,UII,C
+#Country:,Malaysia,C
+#Plant:,Bintulu,C
+#Process Unit:,WHFU,C
+#Model #:,J1D150N-1L,C
+#Manufacturer:,"JSW, Japan",C
+#Serial Number:,2-9005271,C
+#Compressor Type:,Reciprocating Compressors,C
+#Further Details:,,C
+#Train Name:,K5502A Train,C
+#Driver Name:,K5502A MT,C
+#RCOMS CCE Version,2,C
+#ModelId,81d15d19-ac86-4633-9b35-fc94512b3429,C
+Compressor Name:,K5502A,C
+,,
+#=== MODULE||PROPERTY ===,,=== PROPERTY TYPE (Constant/Scan/Output) ===
+CompType||Number of Stages,1,C
+CompType||Number of Bodies,,C
+Graphics||Body 1,MT;K5502A MT;0;4,C
+Graphics||Body 2,RC;K5502A Stage1;0;0+3CYL1+1;1,C
+Graphics||Body 3,,C
+Graphics||Body 4,,C
+Graphics||Body 5,,C
+Rulesets||Body 1,,C
+Rulesets||Body 2,,C
+Rulesets||Body 3,,C
+Rulesets||Body 4,,C
+Rulesets||Body 5,,C
+||Data Historian Server (Input),DSAPPICOLL,C
+||Data Historian Server (Output),DSAPPICOLL,C
+Run Status||Run Status Tag,100,S
+Unit||Pressure,barg,C
+Unit||Flow,e3m3/d,C
+Unit||Temperature,C,C
+Unit||Power,kW,C
+Unit||Length,m,C
+Unit||Weight,kg,C
+Unit||Force,N,C
+Driver||Model ID,,C
+Driver||Driver Type,0,C
+Driver||Rated Power,120,C
+Driver||Rated Speed,300,C
+Limits||Speed by Design - Min,,C
+Limits||Speed by Design - Max,600,C
+Limits||Operating Speed - Min,,C
+Limits||Operating Speed - Max,,C
+Limits||Driver Torque - Min,60,C
+Limits||Driver Torque - Max,100,C
+Limits||Suction Volumetric Efficiency - Min,15,C
+Limits||Suction Volumetric Efficiency - Max,98,C
+Limits||First Stage Suction Pressure - Min,,C
+Limits||First Stage Suction Pressure - Max,,C
+Limits||Last Stage Discharge Pressure - Min,,C
+Limits||Last Stage Discharge Pressure - Max,,C
+Limits||Stage [1] Suction Temperature at Transmitter - Min,100,C
+Limits||Stage [1] Suction Temperature at Transmitter - Max,135,C
+Limits||Stage [2] Suction Temperature at Transmitter - Min,,C
+Limits||Stage [2] Suction Temperature at Transmitter - Max,,C
+OperatingConditions||OEM,10,C
+OperatingConditions||Rod Load Calculation Method,2,C
+OperatingConditions||Number Of Stages,1,C
+OperatingConditions||Number Of Load Steps,1,C
+OperatingConditions||Operating Speed,300,S
+OperatingConditions||Operating Load Step,100,S
+General||Atmospheric Pressure,1.013,S
+General||Pressure at Standard/Normal Condition,1.013,C
+General||Temperature at Standard/Normal Condition,15,C
+Frame||Stroke,0.15,C
+Frame||Friction,0,C
+Frame||Auxillary Load,0,C
+Frame||Length Of Connecting Rod,0.41,C
+Frame||Number Of Throws,1,C
+Frame||Number Of Cylinders,1,C
+Frame||Mechanical Efficiency,0.95,C
+Throw [1]||Throw Number,1,C
+Throw [1]||Is Cylinder Omitted,FALSE,C
+Throw [1]||Rod Load Limit For Compression,68000,C
+Throw [1]||Rod Load Limit For Tension,68000,C
+Throw [1]||Piston Weight,22.2,C
+Throw [1]||Rod Weight,49.1,C
+Throw [1]||Nut Weight,2,C
+Throw [1]||Cross Head Weight,35.7,C
+Throw [1]||Cross Head Pin Weight,6.3,C
+Throw [1]||Cross Head Balance Weight,,C
+Stage [1]||Suction Fixed Pressure Drop,0,C
+Stage [1]||Suction Pressure Drop Percentage,1,C
+Stage [1]||Discharge Fixed Pressure Drop,0,C
+Stage [1]||Discharge Pressure Drop Percentage,0,C
+Stage [1]||Suction Temperature at Transmitter,78.60766,S
+Stage [1]||Suction Pressure at Transmitter,51.3996,S
+Stage [1]||Discharge Temperature at Transmitter,77.7392,S
+Stage [1]||Discharge Pressure at Transmitter,51.90928,S
+Gas Recip Stage [1]||Gas Calc Type,7,C
+Gas Recip Stage [1]||C1,2.05,S
+Gas Recip Stage [1]||C2,,S
+Gas Recip Stage [1]||C3,,S
+Gas Recip Stage [1]||IC4,,S
+Gas Recip Stage [1]||NC4,,S
+Gas Recip Stage [1]||IC5,,S
+Gas Recip Stage [1]||NC5,,S
+Gas Recip Stage [1]||C6,,S
+Gas Recip Stage [1]||C7,,S
+Gas Recip Stage [1]||C8,,S
+Gas Recip Stage [1]||C9,,S
+Gas Recip Stage [1]||C10,,S
+Gas Recip Stage [1]||CO2,,S
+Gas Recip Stage [1]||N2,1.74,S
+Gas Recip Stage [1]||H2S,,S
+Gas Recip Stage [1]||HE,,S
+Gas Recip Stage [1]||H2O,,S
+Gas Recip Stage [1]||O2,,S
+Gas Recip Stage [1]||A,0.56,S
+Gas Recip Stage [1]||H2,95.64,S
+Gas Recip Stage [1]||CO,,S
+Gas Recip Stage [1]||Sulphur Dioxide,,S
+Gas Recip Stage [1]||Neo-Pentane,,S
+Gas Recip Stage [1]||Neo-Hexane,,S
+Gas Recip Stage [1]||Iso-Octane,,S
+Gas Recip Stage [1]||Ethene,,S
+Gas Recip Stage [1]||Propene,,S
+Gas Recip Stage [1]||1-Butene,,S
+Gas Recip Stage [1]||cis-2-Butene,,S
+Gas Recip Stage [1]||trans-2-Butene,,S
+Gas Recip Stage [1]||Iso-Butene,,S
+Gas Recip Stage [1]||1-Pentene,,S
+Gas Recip Stage [1]||Acetylene,,S
+Gas Recip Stage [1]||Benzene,,S
+Gas Recip Stage [1]||Toluene,,S
+Gas Recip Stage [1]||Ethyl Benzene,,S
+Gas Recip Stage [1]||O-xylene,,S
+Gas Recip Stage [1]||M-xylene,,S
+Gas Recip Stage [1]||Pxylene,,S
+Gas Recip Stage [1]||Styrene,,S
+Gas Recip Stage [1]||Methyl Alcohol,,S
+Gas Recip Stage [1]||Ethyl Alcohol,,S
+Gas Recip Stage [1]||Ammonia,,S
+LoadStep [1]||Number,100,C
+LoadStep [1]||Cylinder [1] Name,1,C
+LoadStep [1]||Cylinder [1] Head End - Is Active,TRUE,C
+LoadStep [1]||Cylinder [1] Head End - Effective Clearance,0.0825,C
+LoadStep [1]||Cylinder [1] Crank End - Is Active,TRUE,C
+LoadStep [1]||Cylinder [1] Crank End - Effective Clearance,0.0825,C
+Cylinder [1]||Serial Number,,C
+Cylinder [1]||Name,1,C
+Cylinder [1]||Throw Number,1,C
+Cylinder [1]||Stage Number,1,C
+Cylinder [1]||Maximum Allowable Working Pressure,117,C
+Cylinder [1]||Maximum Allowed Discharge Temperature,185,C
+Cylinder [1]||Bore Diameter,0.185,C
+Cylinder [1]||Discharge Temperature at Flange,77.7392,S
+Cylinder [1]||Head End - Rod Diameter,0.06,C
+Cylinder [1]||Head End - Resistance Factor At Suction - Active End,81.81,C
+Cylinder [1]||Head End - Resistance Factor At Discharge - Active End,110.44,C
+Cylinder [1]||Head End - Resistance Factor At Suction - Deactivated End,20,C
+Cylinder [1]||Head End - Number Of Suction Valves,1,C
+Cylinder [1]||Head End - Suction Valve - Valve Nose Diameter,0.121,C
+Cylinder [1]||Head End - Number Of Discharge Valves,1,C
+Cylinder [1]||Head End - Discharge Valve - Valve Nose Diameter,0.134,C
+Cylinder [1]||Crank End - Rod Diameter,0.06,C
+Cylinder [1]||Crank End - Resistance Factor At Suction - Active End,81.81,C
+Cylinder [1]||Crank End - Resistance Factor At Discharge - Active End,110.44,C
+Cylinder [1]||Crank End - Resistance Factor At Suction - Deactivated End,20,C
+Cylinder [1]||Crank End - Number Of Suction Valves,1,C
+Cylinder [1]||Crank End - Suction Valve - Valve Nose Diameter,0.121,C
+Cylinder [1]||Crank End - Number Of Discharge Valves,1,C
+Cylinder [1]||Crank End - Discharge Valve - Valve Nose Diameter,0.134,C
+Result||Status,0,O
+Result||Cylinder [1] Pre-Heat Suction Temperature,78.6769445385553,O
+Result||Cylinder [1] Discharge Temperature,80.8128980902809,O
+Result||Cylinder [1] Isentropic Efficiency,89.0946747725294,O
+Result||Cylinder [1] Discharge Temperature Calculated Delta,-2.9424633361525,O
+Result||Cylinder [1] Head End - Volumetric Efficiency at Suction,97.9988665102919,O
+Result||Cylinder [1] Crank End - Volumetric Efficiency at Suction,97.9988665102919,O
+Result||Cylinder [1] Head End - Valve Loss,0.126622479787233,O
+Result||Cylinder [1] Crank End - Valve Loss,0.126664117275457,O
+Result||Cylinder [1] Head End - Parasitic Loss,0,O
+Result||Cylinder [1] Crank End - Parasitic Loss,0,O
+Result||Cylinder [1] Head End - Total Power,2.03731207945275,O
+Result||Cylinder [1] Crank End - Total Power,2.03735371694098,O
+Result||Cylinder [1] Head End - Flow,62.1354683241441,O
+Result||Cylinder [1] Crank End - Flow,62.1354683241441,O
+Result||Throw [1] Compression Inertia,2486.57966522649,O
+Result||Throw [1] Compression Inertia Percentage,3.65673480180366,O
+Result||Throw [1] Tension Inertia,2486.57966522649,O
+Result||Throw [1] Tension Inertia Percentage,3.65673480180366,O
+Result||Throw [1] Degrees of Reversal,150,O
+Result||Throw [1] Opposing Force,353.477190282695,O
+Result||Stage [1] Suction Pressure Calculated,51.3996,O
+Result||Stage [1] Discharge Pressure Calculated,51.90928,O
+Result||Stage [1] Discharge Temperature,80.6816633361525,O
+Result||Stage [1] Brake Power,4.07466579639373,O
+Result||Stage [1] Flow,124.270936648288,O
+Result||Stage [1] GasK,2.5476221818225,O
+Result||Stage [1] Suction Pressure at Flange,50.875474,O
+Result||Stage [1] Discharge Pressure at Flange,51.90928,O
+Result||Stage [1] Isentropic Efficiency,89.0946747725294,O
+Result||Stage [1] Discharge Temperature Calculated Delta,-2.9424633361525,O
+Result||Stage [1] Interstage Pressure Calculated Delta,0,O
+Result||Stage [1] Suction Density,5.20967210430532,O
+Result||Stage [1] Discharge Density,5.22856440876934,O
+Result||Stage [1] Suction Specific Heat,9.86939984574155,O
+Result||Stage [1] Discharge Specific Heat,9.87405240482351,O
+Result||Stage [1] Suction Compressibility,1.02118478353903,O
+Result||Stage [1] Discharge Compressibility,1.02136735789767,O
+Result||Stage [1] Molecular Weight,2.96836587144966,O
+Result||Stage [1] Specific Gravity,0.102481127963047,O
+Result||Recip Brake Power,4.07466579639373,O
+Result||Recip Torque,3.39555483032811,O
+Result||Recip Driver Maximum Allowed Power,120,O
+Result||Recip Driver Percent Of Rated Load,3.39555483032811,O
+Result||Recip Isentropic Efficiency,89.0946747725294,O
+Result||Overall Compression Ratio,1.00972437925232,O
